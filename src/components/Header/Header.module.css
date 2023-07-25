@@ -1,0 +1,23 @@
+.header {
+  background: linear-gradient(#39BBDC, #FF3192);  color: white;
+  text-align: center;
+}
+.header h1 {
+  font-family: "Outfit", sans-serif;
+  font-weight: 900;
+}
+.carrito{
+  float: right;
+  margin: 0px 40px 0px;
+  background: linear-gradient(#39BBDC, #FF3192);  font-size: 19px;
+  border: none;
+  color: white;
+}
+
+.carrito:hover{
+  margin-top: 6px;
+}
+
+/* boton */
+
+

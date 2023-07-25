@@ -1,0 +1,13 @@
+.bebidas{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 60px;
+}
+.texto{
+    text-align: center;
+    margin-top: 80px;
+    min-height: 53vh;
+}
+
+
